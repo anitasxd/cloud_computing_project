@@ -3,8 +3,8 @@
 }
 
 .App-image {
-/*  min-height: 20vh;*/
   height: 50vmin;
+  min-height: 20vh;
 }
 
 .App-logo {
@@ -31,8 +31,8 @@
 
 .App-link {
   color: #1C2833;
-  min-height: 50vh;
-}
+/*  min-height: 50vh;
+*/}
 
 @keyframes App-logo-spin {
   from {
