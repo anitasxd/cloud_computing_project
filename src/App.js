@@ -1,4 +1,6 @@
 import logo from './logo.svg';
+import bns from './bns.jpg';
+import sp from './sp.jpg';
 import './App.css';
 
 function App() {
@@ -6,8 +8,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <img src={bns} className="App-logo" alt="logo" />
         <p>
-          Welcome to my Favorite Taiwanese Foods!
+          Welcome to My Favorite Taiwanese Foods!
         </p>
         <a
           className="App-link"
@@ -17,6 +20,7 @@ function App() {
         >
           Beef Noodle Soup
         </a>
+        <img src={bns} className="App-image" alt="image" />
       </header>
     </div>
   );
