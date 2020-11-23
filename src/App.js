@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Welcome to my Favorite Taiwanese Foods!
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.allrecipes.com/recipe/17794/beef-noodle-soup/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Beef Noodle Soup
         </a>
       </header>
     </div>
